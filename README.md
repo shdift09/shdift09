@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jimin Lee 👋
 
-<!--
-**shdift09/shdift09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computational and Data Science student at George Mason University, minoring in Economics.
 
-Here are some ideas to get you started:
+I enjoy working with data to identify patterns, solve problems, and communicate insights that support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Programming & Data Analysis:** Python, R, SQL
+- **Data Visualization:** Power BI, Tableau
+- **Additional Tools:** Excel, R Markdown
+
+### Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Business & Economic Analysis
+- Supply Chain & Logistics Analytics
+
+### Featured Projects
+
+**Seoul Housing Prices & Crime Analysis (2014–2022)**
+
+An R-based statistical analysis examining relationships between apartment transaction prices and recorded crime rates across Seoul's 25 districts.
+
+*Additional projects will be added as they are completed.*
+
+### Education
+
+**George Mason University**
+
+B.S. in Computational and Data Science  
+Minor in Economics
