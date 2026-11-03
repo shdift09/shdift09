@@ -18,11 +18,11 @@ I enjoy working with data to identify patterns, solve problems, and communicate 
 
 ### Featured Projects
 
-**Seoul Housing Prices & Crime Analysis (2014–2022)**
+**[Seoul Housing Prices & Crime Analysis (2014–2022)](https://github.com/shdift09/seoul-housing-crime-analysis)**
 
 An R-based statistical analysis examining relationships between apartment transaction prices and recorded crime rates across Seoul's 25 districts.
 
-*Additional projects will be added as they are completed.*
+📊 [View Full Analysis Report](https://shdift09.github.io/seoul-housing-crime-analysis/Seoul_Crime_Housing_Analysis.html)
 
 ### Education
 
