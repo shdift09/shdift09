@@ -24,6 +24,12 @@ An R-based statistical analysis examining relationships between apartment transa
 
 📊 [View Full Analysis Report](https://shdift09.github.io/seoul-housing-crime-analysis/Seoul_Crime_Housing_Analysis.html)
 
+**2. [NFL Performance Analytics Dashboard](https://github.com/shdift09/nfl-performance-analytics)**
+
+Collaboratively developed an interactive R Shiny dashboard for exploring NFL player statistics and athletic performance. Independently prepared five player performance datasets.
+
+📊 [Launch Interactive Shiny Dashboard](https://jlee405.shinyapps.io/CDS301_JM_YJ/)
+
 ### Education
 
 **George Mason University**
